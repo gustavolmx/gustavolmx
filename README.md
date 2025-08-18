@@ -30,8 +30,6 @@
 ### 🎨 Front-end  
 <div align="center">
 
-| Logo | Descrição |
-|------|-----------|
 | <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"> | **HTML5** → Estrutura a base de qualquer página web |
 | <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"> | **CSS3** → Cria estilos modernos, responsivos e elegantes |
 | <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"> | **JavaScript** → Dá vida e interatividade às aplicações |
