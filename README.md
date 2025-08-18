@@ -20,31 +20,36 @@
 - 🌱 Filosofia: *"O começo é difícil, o meio é doloroso, mas no final te torna alguém melhor do que ontem"*  
 
 ---
-
-## ⚡ Tecnologias e Ferramentas
+Tecnologias e ferramentas 
 
 ### 🎨 Front-end  
 <p>
-  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"> HTML5
+  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"> 
+  <b>HTML5</b> — Estrutura a base de qualquer página web
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"> CSS3
+  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"> 
+  <b>CSS3</b> — Cria estilos modernos e responsivos
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"> JavaScript
+  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"> 
+  <b>JavaScript</b> — Dá vida e interatividade às aplicações
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"> React.js
+  <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"> 
+  <b>React.js</b> — Framework para interfaces dinâmicas
 </p>
 
 ### 🖥️ Back-end  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"> Node.js
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"> 
+  <b>Node.js</b> — Criação de servidores rápidos e escaláveis
 </p>
 
 ### 🗄️ Banco de Dados  
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"> MySQL
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"> 
+  <b>MySQL</b> — Banco de dados relacional para armazenar informações
 </p>
 
 
