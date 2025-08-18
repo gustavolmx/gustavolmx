@@ -23,37 +23,30 @@
 
 ## ⚡ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gustavolmx/gustavolmx/main/assets/dev-coding.gif" width="600" alt="Programador animado">
+### 🎨 Front-end  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"> HTML5
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"> CSS3
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"> JavaScript
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"> React.js
 </p>
 
-### 🎨 Front-end  
-<div align="center">
-
-| <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"> | **HTML5** → Estrutura a base de qualquer página web |
-| <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"> | **CSS3** → Cria estilos modernos, responsivos e elegantes |
-| <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"> | **JavaScript** → Dá vida e interatividade às aplicações |
-| <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"> | **React.js** → Framework para interfaces rápidas e dinâmicas |
-
-</div>
-
 ### 🖥️ Back-end  
-<div align="center">
-
-| Logo | Descrição |
-|------|-----------|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"> | **Node.js** → Criação de servidores rápidos e escaláveis |
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"> Node.js
+</p>
 
 ### 🗄️ Banco de Dados  
-<div align="center">
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"> MySQL
+</p>
 
-| Logo | Descrição |
-|------|-----------|
-| <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"> | **MySQL** → Banco de dados relacional para armazenar informações |
-
-</div>
 
 ---
 
