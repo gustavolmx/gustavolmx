@@ -59,6 +59,16 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=808080)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff)
+
+</div>
+
+
 ## 🌐 Onde me encontrar
 <p align="left">
   <a href="https://www.linkedin.com/in/gustavo-de-lima-máximo-19635 2317" target="_blank">
