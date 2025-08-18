@@ -28,34 +28,34 @@
 </p>
 
 ### 🎨 Front-end  
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5">  
-  **HTML5** → Estrutura a base de qualquer página web
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3">  
-  **CSS3** → Cria estilos modernos, responsivos e elegantes
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript">  
-  **JavaScript** → Dá vida e interatividade às aplicações
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="45" alt="React">  
-  **React.js** → Framework para interfaces rápidas e dinâmicas
-</p>
+<div align="center">
+
+| Logo | Descrição |
+|------|-----------|
+| <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"> | **HTML5** → Estrutura a base de qualquer página web |
+| <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"> | **CSS3** → Cria estilos modernos, responsivos e elegantes |
+| <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"> | **JavaScript** → Dá vida e interatividade às aplicações |
+| <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"> | **React.js** → Framework para interfaces rápidas e dinâmicas |
+
+</div>
 
 ### 🖥️ Back-end  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js">  
-  **Node.js** → Criação de servidores rápidos e escaláveis
-</p>
+<div align="center">
+
+| Logo | Descrição |
+|------|-----------|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"> | **Node.js** → Criação de servidores rápidos e escaláveis |
+
+</div>
 
 ### 🗄️ Banco de Dados  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL">  
-  **MySQL** → Banco de dados relacional para armazenar informações
-</p>
+<div align="center">
+
+| Logo | Descrição |
+|------|-----------|
+| <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"> | **MySQL** → Banco de dados relacional para armazenar informações |
+
+</div>
 
 ---
 
