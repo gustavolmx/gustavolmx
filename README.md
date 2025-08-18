@@ -23,28 +23,39 @@
 
 ## ⚡ Tecnologias e Ferramentas
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavolmx/gustavolmx/main/assets/dev-coding.gif" width="600" alt="Programador animado">
+</p>
+
 ### 🎨 Front-end  
-- **HTML5** → Estrutura de páginas web  
-- **CSS3** → Estilização e responsividade  
-- **JavaScript** → Lógica e interatividade  
-- **React.js** → Criação de interfaces modernas e dinâmicas  
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5">  
+  **HTML5** → Estrutura a base de qualquer página web
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3">  
+  **CSS3** → Cria estilos modernos, responsivos e elegantes
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript">  
+  **JavaScript** → Dá vida e interatividade às aplicações
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="45" alt="React">  
+  **React.js** → Framework para interfaces rápidas e dinâmicas
+</p>
 
 ### 🖥️ Back-end  
-- **Node.js** → Servidores rápidos e escaláveis  
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js">  
+  **Node.js** → Criação de servidores rápidos e escaláveis
+</p>
 
 ### 🗄️ Banco de Dados  
-- **MySQL** → Organização e manipulação de dados  
-
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=808080)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff)
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL">  
+  **MySQL** → Banco de dados relacional para armazenar informações
+</p>
 
 ---
 
