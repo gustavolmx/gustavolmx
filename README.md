@@ -1,7 +1,4 @@
-!-- Banner Animado -->
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Banner animado de programação">
-</p>
+
 
 <h1 align="center">👋 Olá, mundo! Eu sou <strong>Gustavo de Lima Maximo</strong> 🌍</h1>
 
