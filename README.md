@@ -1,4 +1,4 @@
-
+<img src="https://pin.it/5yZTd1YGg" width=100%>
 
 <h1 align="center">👋 Olá, mundo! Eu sou <strong>Gustavo de Lima Maximo</strong> 🌍</h1>
 
