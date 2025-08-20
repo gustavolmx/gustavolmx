@@ -10,8 +10,8 @@
 ---
 
 ##  Sobre mim
--  São Paulo - SP, Brasil  
--  Pronome: Ele/dele  
+- 📍 São Paulo - SP, Brasil  
+- 🧑‍💻 Pronome: Ele/dele  
 - 🎯 Objetivo: Tornar-me um desenvolvedor Full Stack completo  
 - 📚 Apaixonado por aprender novas tecnologias e boas práticas  
 - 🌱 Filosofia: *"O começo é difícil, o meio é doloroso, mas no final te torna alguém melhor do que ontem"*  
