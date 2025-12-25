@@ -1,64 +1,34 @@
-<img src="https://pin.it/5yZTd1YGg" width=100%>
-
-<h1 align="center">👋 Olá, mundo! Eu sou <strong>Gustavo de Lima Maximo</strong> 🌍</h1>
-
-<p align="center">
-  💻 Estudante de Programação | Futuro Desenvolvedor Full Stack <br>
-  🚀 Transformando ideias em soluções através do código
-</p>
-
----
-
-##  Sobre mim
-- 📍 São Paulo - SP, Brasil  
-- 🧑‍💻 Pronome: Ele/dele  
-- 🎯 Objetivo: Tornar-me um desenvolvedor Full Stack completo  
-- 📚 Apaixonado por aprender novas tecnologias e boas práticas  
-- 🌱 Filosofia: *"O começo é difícil, o meio é doloroso, mas no final te torna alguém melhor do que ontem"*  
-
----
-Tecnologias e ferramentas 
-
-### 🎨 Front-end  
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5"> 
-  <b>HTML5</b> — Estrutura a base de qualquer página web
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3"> 
-  <b>CSS3</b> — Cria estilos modernos e responsivos
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript"> 
-  <b>JavaScript</b> — Dá vida e interatividade às aplicações
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="45" alt="React"> 
-  <b>React.js</b> — Framework para interfaces dinâmicas
-</p>
-
-### 🖥️ Back-end  
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="45" alt="Node.js"> 
-  <b>Node.js</b> — Criação de servidores rápidos e escaláveis
-</p>
-
-### 🗄️ Banco de Dados  
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="45" alt="MySQL"> 
-  <b>MySQL</b> — Banco de dados relacional para armazenar informações
-</p>
-
-
----
-
 ## 📊 Estatísticas do GitHub
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff&icon_color=808080)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff)
 
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=4&theme=tokyonight"/>
+</div>
+
+---
+
+## 📈 Linguagens mais usadas nos projetos
+
+> Gráfico baseado na quantidade de código presente nos repositórios
+
+- **JavaScript** 🟨
+- **HTML** 🟧
+- **CSS** 🟦
+- **MySQL** 🟩
+
+---
+
+## 🧠 Tecnologias que utilizo
+
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="50" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="50" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="50" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="MySQL" height="50" width="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
 
