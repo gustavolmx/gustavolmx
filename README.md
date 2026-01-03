@@ -41,12 +41,15 @@ Desenvolvedor front-end focado na criação de interfaces modernas, organizadas 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
   />
+</p>
+
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=tokyonight&hide_border=true"
+    height="150"
   />
 </p>
 
