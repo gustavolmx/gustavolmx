@@ -55,12 +55,11 @@ Desenvolvedor front-end focado na criação de interfaces modernas, organizadas 
 
 ---
 
-## 🗓️ Atividade e contribuições ao longo do tempo
+## 🗓️ Atividade e contribuições
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gustavolmx&theme=tokyo-night&hide_border=true"
-    alt="Calendário de contribuições"
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gustavolmx&bg_color=020617&color=2563eb&line=3b82f6&point=60a5fa&hide_border=true"
   />
 </p>
 
