@@ -1,4 +1,10 @@
-<h1 align="center">👋 Gustavo de Lima Maximo</h1>
+<!-- CABEÇALHO ANIMADO -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:020617&height=200&section=header&text=Gustavo%20de%20Lima%20Maximo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  />
+</p>
+
 <h3 align="center">Desenvolvedor Front-End</h3>
 
 <p align="center">
@@ -11,14 +17,14 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou desenvolvedor front-end com foco na criação de interfaces modernas, organizadas e responsivas. Trabalho com tecnologias voltadas ao desenvolvimento web, aplicando boas práticas de código, usabilidade e versionamento. Busco evoluir constantemente e transformar ideias em soluções funcionais e bem estruturadas.
+Sou desenvolvedor front-end com foco na criação de interfaces modernas, organizadas e responsivas. Trabalho com **HTML, CSS, JavaScript e React**, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Possuo conhecimentos em **MySQL** e estou em constante evolução na área de desenvolvimento web.
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git&theme=dark" />
 </p>
 
 ---
@@ -27,26 +33,33 @@ Sou desenvolvedor front-end com foco na criação de interfaces modernas, organi
 
 ### 🔹 Visão geral
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+  />
 </p>
 
 ### 🔹 Linguagens mais utilizadas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
 
-## 📌 Projetos em destaque
-🔹 Portfólio pessoal desenvolvido com HTML, CSS e JavaScript  
-🔹 Projetos front-end focados em responsividade e organização  
-🔹 Repositórios versionados com Git  
+## 📌 Projetos
 
-📎 Confira mais em:  
+- 💻 Portfólio pessoal desenvolvido com HTML, CSS e JavaScript  
+- ⚙️ Projetos front-end focados em responsividade e organização  
+- 🔧 Repositórios versionados com Git  
+
+📎 Veja mais em:  
 👉 https://github.com/gustavolmx
 
 ---
 
 <p align="center">
-  💙 Obrigado por visitar meu perfil!
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=120&section=footer"
+  />
 </p>
