@@ -1,181 +1,52 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Gustavo | Portfólio Front-End</title>
+<h1 align="center">👋 Gustavo de Lima Maximo</h1>
+<h3 align="center">Desenvolvedor Front-End</h3>
 
-  <link rel="stylesheet" href="style.css">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
+<p align="center">
+  <a href="https://gustavolmx.github.io/sobre_mim/" target="_blank">
+    🌐 Portfólio Online
+  </a>
+</p>
 
-  <header>
-    <h1>Gustavo de Lima Maximo</h1>
-    <p>Desenvolvedor Front-End</p>
-  </header>
+---
 
-  <main>
-    <!-- SOBRE MIM -->
-    <section class="card">
-      <h2>Sobre mim</h2>
-      <p>
-        Desenvolvedor front-end focado na criação de interfaces modernas,
-        organizadas e responsivas. Possuo experiência com React, HTML, CSS
-        e JavaScript, aplicando boas práticas de desenvolvimento e usabilidade.
-        Conhecimentos em MySQL e Git para versionamento e organização de projetos.
-      </p>
-    </section>
+## 👨‍💻 Sobre mim
 
-    <!-- TECNOLOGIAS -->
-    <section class="card">
-      <h2>Tecnologias</h2>
-      <div class="techs">
-        <span>React</span>
-        <span>HTML</span>
-        <span>CSS</span>
-        <span>JavaScript</span>
-        <span>MySQL</span>
-        <span>Git</span>
-      </div>
-    </section>
+Sou desenvolvedor front-end com foco na criação de interfaces modernas, organizadas e responsivas. Trabalho com tecnologias voltadas ao desenvolvimento web, aplicando boas práticas de código, usabilidade e versionamento. Busco evoluir constantemente e transformar ideias em soluções funcionais e bem estruturadas.
 
-    <!-- GRÁFICO -->
-    <section class="card">
-      <h2>Linguagens mais usadas nos projetos</h2>
-      <canvas id="languagesChart"></canvas>
-    </section>
-  </main>
+---
 
-  <footer>
-    <p>© 2026 • Portfólio GitHub</p>
-  </footer>
+## 🚀 Tecnologias
 
-  <script src="script.js"></script>
-</body>
-</html>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git" />
+</p>
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Segoe UI", sans-serif;
-}
+---
 
-body {
-  background: #0f172a;
-  color: #e5e7eb;
-}
+## 📊 Estatísticas do GitHub
 
-header {
-  text-align: center;
-  padding: 3rem 1rem;
-  background: linear-gradient(135deg, #1e3a8a, #020617);
-}
+### 🔹 Visão geral
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-header h1 {
-  font-size: 2.6rem;
-}
+### 🔹 Linguagens mais utilizadas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-header p {
-  margin-top: 0.5rem;
-  color: #93c5fd;
-}
+---
 
-main {
-  max-width: 900px;
-  margin: 2rem auto;
-  padding: 1rem;
-  display: grid;
-  gap: 2rem;
-}
+## 📌 Projetos em destaque
+🔹 Portfólio pessoal desenvolvido com HTML, CSS e JavaScript  
+🔹 Projetos front-end focados em responsividade e organização  
+🔹 Repositórios versionados com Git  
 
-.card {
-  background: #020617;
-  padding: 2rem;
-  border-radius: 14px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.4);
-}
+📎 Confira mais em:  
+👉 https://github.com/gustavolmx
 
-.card h2 {
-  margin-bottom: 1rem;
-  color: #60a5fa;
-}
+---
 
-.techs {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-}
-
-.techs span {
-  background: #1e293b;
-  padding: 0.7rem 1.2rem;
-  border-radius: 10px;
-  font-weight: bold;
-  transition: 0.3s;
-}
-
-.techs span:hover {
-  background: #2563eb;
-  transform: scale(1.1);
-}
-
-footer {
-  text-align: center;
-  padding: 1.5rem;
-  color: #94a3b8;
-}
-
-const username = "gustavolmx";
-const chartCanvas = document.getElementById("languagesChart");
-
-async function getLanguages() {
-  const reposResponse = await fetch(`https://api.github.com/users/${username}/repos`);
-  const repos = await reposResponse.json();
-
-  const languageTotals = {};
-
-  for (const repo of repos) {
-    if (repo.fork) continue;
-
-    const langResponse = await fetch(repo.languages_url);
-    const languages = await langResponse.json();
-
-    for (const lang in languages) {
-      languageTotals[lang] = (languageTotals[lang] || 0) + languages[lang];
-    }
-  }
-
-  return languageTotals;
-}
-
-function createChart(languages) {
-  const labels = Object.keys(languages);
-  const data = Object.values(languages);
-
-  new Chart(chartCanvas, {
-    type: "doughnut",
-    data: {
-      labels,
-      datasets: [{
-        data,
-        borderWidth: 1
-      }]
-    },
-    options: {
-      responsive: true,
-      animation: {
-        duration: 1500
-      },
-      plugins: {
-        legend: {
-          position: "bottom"
-        }
-      }
-    }
-  });
-}
-
-getLanguages().then(createChart);
-
+<p align="center">
+  💙 Obrigado por visitar meu perfil!
+</p>
