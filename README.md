@@ -1,72 +1,70 @@
-<!-- CABEÇALHO -->
+<!-- CABEÇALHO COM NOME E CARGO SOBREPOSTOS -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=180&section=header&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=220&section=header&animation=fadeIn"
   />
 </p>
 
-<!-- NOME COM EFEITO DIGITAÇÃO (CORRIGIDO) -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=32&duration=3500&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&lines=Gustavo+de+Lima+Maximo"
-    alt="Nome animado"
-  />
-</p>
+<h1 align="center" style="color:white;">
+  Gustavo de Lima Maximo
+</h1>
 
-<!-- CARGO COM ANIMAÇÃO -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Interfaces+Modernas+e+Responsivas;Foco+em+Experiencia+do+Usuario"
-    alt="Cargo animado"
-  />
-</p>
+<h3 align="center" style="color:#cbd5f5;">
+  Desenvolvedor Front-End
+</h3>
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor front-end focado na criação de interfaces modernas, organizadas e responsivas. Possuo experiência com **HTML, CSS, JavaScript e React**, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Conhecimentos em **MySQL**, com foco em evolução contínua e qualidade de código.
+Desenvolvedor front-end focado na criação de interfaces modernas, organizadas e responsivas. Trabalho com **HTML, CSS, JavaScript e React**, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Possuo conhecimentos em **MySQL** e busco constante evolução na área de tecnologia.
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git&theme=dark" />
-</p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github.com/gustavolmx.png" width="120" style="border-radius:50%" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/gustavolmx?style=for-the-badge&color=1e3a8a" />
-  <img src="https://img.shields.io/github/stars/gustavolmx?style=for-the-badge&color=020617" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/last-commit/gustavolmx/gustavolmx?style=flat-square&color=2563eb" />
-</p>
-
----
-
-## 🗓️ Atividade e contribuições
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gustavolmx&bg_color=020617&color=2563eb&line=3b82f6&point=60a5fa&hide_border=true"
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e3a8a&height=3&section=footer"
   />
 </p>
 
 ---
 
-## 📌 Foco atual
+## 💼 Projetos em destaque
 
-- Desenvolvimento front-end  
-- Interfaces responsivas e acessíveis  
-- Organização e versionamento de código  
-- Evolução constante em tecnologias web
+### 🔹 Sobre Mim — Site Pessoal
+Site profissional desenvolvido para apresentação pessoal, com layout moderno, organizado e totalmente responsivo.
+
+**Tecnologias:** HTML • CSS • JavaScript  
+
+🔗 https://gustavolmx.github.io/sobre_mim/
+
+---
+
+## 🎯 O que eu faço como Front-End
+
+- Desenvolvimento de interfaces modernas e responsivas  
+- Criação de layouts profissionais e organizados  
+- Aplicação de boas práticas de código  
+- Interatividade com JavaScript  
+- Versionamento com Git e GitHub  
+
+---
+
+## 🧠 Competências técnicas
+
+- React (componentes, estado e props)
+- HTML5 semântico
+- CSS3 (Flexbox, Grid, responsividade)
+- JavaScript ES6+
+- Git e GitHub
