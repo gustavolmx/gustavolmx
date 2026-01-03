@@ -1,21 +1,23 @@
-<!-- CABEÇALHO ANIMADO -->
+<!-- CABEÇALHO -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=180&section=header&animation=fadeIn"
   />
 </p>
 
-<!-- NOME COM EFEITO DIGITAÇÃO -->
+<!-- NOME COM EFEITO DIGITAÇÃO (CORRIGIDO) -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=32&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Gustavo+de+Lima+Maximo"
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=32&duration=3500&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&lines=Gustavo+de+Lima+Maximo"
+    alt="Nome animado"
   />
 </p>
 
 <!-- CARGO COM ANIMAÇÃO -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Interfaces+Modernas+e+Responsivas;Foco+em+Experiência+do+Usuário"
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Interfaces+Modernas+e+Responsivas;Foco+em+Experiencia+do+Usuario"
+    alt="Cargo animado"
   />
 </p>
 
