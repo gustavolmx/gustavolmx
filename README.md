@@ -50,6 +50,13 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
 🔗 https://gustavolmx.github.io/sobre_mim/
 
 ---
+## 🗓️ Atividade e contribuições
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gustavolmx&bg_color=020617&color=2563eb&line=3b82f6&point=60a5fa&hide_border=true"
+  />
+</p>
 
 ## 🎯 O que eu faço como Front-End
 
