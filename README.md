@@ -1,17 +1,17 @@
-<!-- CABEÇALHO COM NOME E CARGO SOBREPOSTOS -->
 <p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:1e3a8a&height=220&section=header&animation=fadeIn"
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Gustavo+de+Lima+Maximo"
+    alt="Nome animado"
   />
 </p>
 
-<h1 align="center" style="color:white;">
-  Gustavo de Lima Maximo
-</h1>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Desenvolvedor+de+Software;Front-End+Developer;Interfaces+Modernas+e+Responsivas"
+    alt="Cargo animado"
+  />
+</p>
 
-<h3 align="center" style="color:#cbd5f5;">
-  Desenvolvedor Front-End
-</h3>
 
 ---
 
