@@ -40,17 +40,16 @@ Desenvolvedor front-end focado na criação de interfaces modernas, organizadas 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
+  <img src="https://github.com/gustavolmx.png" width="120" style="border-radius:50%" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=tokyonight&hide_border=true"
-    height="150"
-  />
+  <img src="https://img.shields.io/github/followers/gustavolmx?style=for-the-badge&color=1e3a8a" />
+  <img src="https://img.shields.io/github/stars/gustavolmx?style=for-the-badge&color=020617" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/gustavolmx/gustavolmx?style=flat-square&color=2563eb" />
 </p>
 
 ---
