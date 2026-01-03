@@ -1,11 +1,23 @@
-<!-- CABEÇALHO MODERNO -->
+<!-- CABEÇALHO ANIMADO -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=150&section=header&text=Gustavo%20de%20Lima%20Maximo&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=55" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&fontColor=ffffff&animation=fadeIn"
   />
 </p>
 
-<h3 align="center">Desenvolvedor Front-End</h3>
+<!-- NOME COM EFEITO DIGITAÇÃO -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=32&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Gustavo+de+Lima+Maximo"
+  />
+</p>
+
+<!-- CARGO COM ANIMAÇÃO -->
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=20&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Front-End;Interfaces+Modernas+e+Responsivas;Foco+em+Experiência+do+Usuário"
+  />
+</p>
 
 ---
 
@@ -38,9 +50,20 @@ Desenvolvedor front-end focado na criação de interfaces modernas, organizadas 
 
 ---
 
+## 🗓️ Atividade e contribuições ao longo do tempo
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=gustavolmx&theme=tokyo-night&hide_border=true"
+    alt="Calendário de contribuições"
+  />
+</p>
+
+---
+
 ## 📌 Foco atual
 
-- Desenvolvimento front-end
-- Interfaces responsivas e acessíveis
-- Organização e versionamento de código
+- Desenvolvimento front-end  
+- Interfaces responsivas e acessíveis  
+- Organização e versionamento de código  
 - Evolução constante em tecnologias web
