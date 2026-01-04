@@ -40,7 +40,7 @@ Desenvolvedor front-end focado na criação de interfaces modernas, organizadas 
 
 ---
 
-## 💼 Projetos em destaque
+## 💼 Projeto em destaque
 
 ### 🔹 Sobre Mim — Site Pessoal
 Site profissional desenvolvido para apresentação pessoal, com layout moderno, organizado e totalmente responsivo.
