@@ -70,8 +70,8 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
 
 ## 🧠 Competências técnicas
 
-- React (componentes, estado e props)
-- HTML5 semântico
-- CSS3 (Flexbox, Grid, responsividade)
+- React
+- HTML5 
+- CSS3 
 - JavaScript ES6+
 - Git e GitHub
