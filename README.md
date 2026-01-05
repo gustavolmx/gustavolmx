@@ -75,3 +75,5 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
 - CSS3 
 - JavaScript ES6+
 - Git e GitHub
+- MySQL
+
