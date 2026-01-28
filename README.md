@@ -64,9 +64,9 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
 
 ## **Competências técnicas**
 
-- HTML5 
-- CSS3 
-- JavaScript ES6+
+- HTML
+- CSS
+- JavaScript
 - Git e GitHub
 - MySQL
 
