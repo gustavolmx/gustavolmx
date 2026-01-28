@@ -15,13 +15,13 @@
 
 ---
 
-## Sobre mim
+## **Sobre mim**
 
-Desenvolvedor web front-end focado na criação de interfaces modernas, organizadas e responsivas. Utilizo tecnologias como **HTML, CSS, JavaScript, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Possuo conhecimentos em **MySQL** e busco constante evolução na área de tecnologia.
+**Front-End Developer** focado na criação de interfaces modernas, organizadas e responsivas. Utilizo tecnologias como **HTML**, **CSS**, **JavaScript**, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Possuo conhecimentos em **Mysql** e busco constante evolução na área de tecnologia.
 
 ---
 
-## Tecnologias
+## **Tecnologias**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/>
@@ -39,7 +39,7 @@ Desenvolvedor web front-end focado na criação de interfaces modernas, organiza
 
 ---
 
-## Projeto em destaque
+## **Projeto em destaque**
 
 ### 🔹 Sobre Mim — Site Pessoal
 Site profissional desenvolvido para apresentação pessoal, com layout moderno, organizado e totalmente responsivo.
@@ -49,7 +49,7 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
 🔗 https://gustavolmx.github.io/sobre_mim/
 
 ---
-## Atividade e contribuições
+## **Atividade e contribuições**
 
 <p align="center">
   <img
@@ -57,7 +57,7 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
   />
 </p>
 
-## O que eu faço como Front-End
+## **O que eu faço como Front-End**
 
 - Desenvolvimento de interfaces modernas e responsivas  
 - Criação de layouts profissionais e organizados  
@@ -67,7 +67,7 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
 
 ---
 
-## Competências técnicas
+## **Competências técnicas**
 
 - HTML5 
 - CSS3 
