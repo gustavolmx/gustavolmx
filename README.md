@@ -15,16 +15,15 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Desenvolvedor web front-end focado na criação de interfaces modernas, organizadas e responsivas. Utilizo tecnologias como **HTML, CSS, JavaScript e React**, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Possuo conhecimentos em **MySQL** e busco constante evolução na área de tecnologia.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="55"/>
   <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/>
   <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/>
   <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/>
@@ -70,7 +69,6 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
 
 ## 🧠 Competências técnicas
 
-- React
 - HTML5 
 - CSS3 
 - JavaScript ES6+
