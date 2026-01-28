@@ -31,11 +31,6 @@
   <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/>
 </p>
 
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:1e3a8a&height=3&section=footer"
-  />
-</p>
 
 ---
 
