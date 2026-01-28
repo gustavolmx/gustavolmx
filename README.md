@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Desenvolvedor web front-end focado na criação de interfaces modernas, organizadas e responsivas. Utilizo tecnologias como **HTML, CSS, JavaScript e React**, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Possuo conhecimentos em **MySQL** e busco constante evolução na área de tecnologia.
+Desenvolvedor web front-end focado na criação de interfaces modernas, organizadas e responsivas. Utilizo tecnologias como **HTML, CSS, JavaScript, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Possuo conhecimentos em **MySQL** e busco constante evolução na área de tecnologia.
 
 ---
 
