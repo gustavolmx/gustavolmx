@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+;Front-End+Developer;Interfaces+Modernas+e+Responsivas"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Front-End+Developer;Interfaces+Modernas+e+Responsivas"
     alt="Cargo animado"
   />
 </p>
