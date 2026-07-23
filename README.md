@@ -19,7 +19,7 @@
 
 **Front-End Developer** focado na criação de interfaces modernas, organizadas e responsivas. Utilizo tecnologias como **HTML**, **CSS**, **JavaScript**, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Possuo conhecimentos em **Mysql** e busco constante evolução na área de tecnologia.
 
----
+
 
 ## **Tecnologias**
 
@@ -32,7 +32,7 @@
 </p>
 
 
----
+
 
 ## **Projeto em destaque**
 
@@ -43,7 +43,7 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
 
 🔗 https://gustavolmx.github.io/sobre_mim/
 
----
+
 ## **Atividade e contribuições**
 
 <p align="center">
@@ -60,7 +60,7 @@ Site profissional desenvolvido para apresentação pessoal, com layout moderno, 
 - Interatividade com JavaScript  
 - Versionamento com Git e GitHub  
 
----
+
 
 ## **Competências técnicas**
 
