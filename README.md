@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Gustavo%20Lima&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=62&descSize=18&descColor=CCCCCC" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2b2b2b,100:0d0d0d&height=200&section=header&text=Gustavo%20Lima&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=60&descSize=18&descColor=CCCCCC" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Foco+em+An%C3%A1lise+de+Dados;Python+%C2%B7+SQL+%C2%B7+Excel+%C2%B7+Power+BI;Transformando+dados+em+decis%C3%B5es" alt="Typing SVG" />
 
@@ -28,19 +28,17 @@ Gosto de transformar dados em decisões — desde uma planilha bem estruturada n
 
 <div align="center">
 
+**Uso no dia a dia**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-2b2b2b?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
 <br/>
 
-## Atualmente aprendendo
-
-<div align="center">
+**Aprendendo agora**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -52,12 +50,12 @@ Gosto de transformar dados em decisões — desde uma planilha bem estruturada n
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9c9c9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gustavolmx&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFFFFF&icon_color=FFFFFF&text_color=c9c9c9&cache_seconds=86400" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavolmx&theme=dark&hide_border=true&background=0d0d0d&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFFFFF&text_color=c9c9c9" alt="Top Languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=FFFFFF&text_color=c9c9c9&cache_seconds=86400" alt="Top Languages" height="165"/>
 
 </div>
 
@@ -83,6 +81,6 @@ Gosto de transformar dados em decisões — desde uma planilha bem estruturada n
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2b2b2b,100:0d0d0d&height=100&section=footer" width="100%"/>
 
 </div>
