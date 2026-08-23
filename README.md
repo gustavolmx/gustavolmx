@@ -1,72 +1,79 @@
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=36&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Gustavo+de+Lima+Maximo"
-    alt="Nome animado"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Software+Developer+|+ADS+Student;Interfaces+Modernas+e+Responsivas"
-    alt="Cargo animado"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Foco+em+An%C3%A1lise+de+Dados" alt="Typing SVG" />
 
+<br/>
 
+![Perfil Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&color=ffffff&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+perfil)
 
+</div>
 
-## **Sobre mim**
+<br/>
 
-**Front-End Developer** focado na criação de interfaces modernas, organizadas e responsivas. Utilizo tecnologias como **HTML**, **CSS**, **JavaScript**, aplicando boas práticas de desenvolvimento, usabilidade e versionamento com **Git**. Possuo conhecimentos em **Mysql** e busco constante evolução na área de tecnologia.
+## Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na Unisa (São Paulo), com foco em **Análise de Dados**. Tenho formação técnica em Informática e certificação em Git e GitHub pela FGV Online.
+
+Gosto de transformar dados em decisões — desde uma planilha bem estruturada no Excel até uma consulta SQL otimizada ou um script em Python que automatiza uma análise. Estou construindo minha base de forma sólida, com prática constante e projetos reais.
 
 
+<br/>
 
-## **Tecnologias**
+## Tecnologias e ferramentas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="55"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="55"/>
-</p>
+<div align="center">
 
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
+</div>
 
+<br/>
 
-## **Projeto em destaque**
+## Atualmente aprendendo
 
-### 🔹 Sobre Mim — Site Pessoal
-Site profissional desenvolvido para apresentação pessoal, com layout moderno, organizado e totalmente responsivo.
+<div align="center">
 
-**Tecnologias:** HTML • CSS • JavaScript  
+![Power BI](https://img.shields.io/badge/Power_BI-1a1a1a?style=for-the-badge&logo=powerbi&logoColor=white)
 
-🔗 https://gustavolmx.github.io/sobre_mim/
+</div>
 
+<br/>
 
-## **Atividade e contribuições**
+## Estatísticas do GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gustavolmx&bg_color=020617&color=2563eb&line=3b82f6&point=60a5fa&hide_border=true"
-  />
-</p>
+<div align="center">
 
-## **O que eu faço como Front-End**
+<img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=ffffff&text_color=c9c9c9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" height="165"/>
 
-- Desenvolvimento de interfaces modernas e responsivas  
-- Criação de layouts profissionais e organizados  
-- Aplicação de boas práticas de código  
-- Interatividade com JavaScript  
-- Versionamento com Git e GitHub  
+<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=c9c9c9" alt="Top Languages" height="165"/>
 
+</div>
 
-## **Competências técnicas**
+<br/>
 
-- HTML
-- CSS
-- JavaScript
-- Git e GitHub
-- MySQL
+## Contato
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavodelimamaximo)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maximogustavo47@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>Feito com dedicação, uma planilha aberta ao lado e muito café</sub>
+
+</div>
