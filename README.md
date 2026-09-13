@@ -24,7 +24,6 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
@@ -36,8 +35,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
 <div align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=gustavolmx&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b3b3b3&icon_color=ffffff&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b3b3b3&langs_count=6" />
-</div>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gustavolmx&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=b3b3b3&langs_count=6&hide=javascript,html,css,typescript,c%23" />
 
 
 
