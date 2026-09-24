@@ -11,24 +11,28 @@
 
 ## Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Dados**. Desenvolvo soluções práticas focadas em extração, tratamento, modelagem e visualização de dados para tomada de decisão estratégica.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Unisa (2º período, formatura prevista para dezembro de 2027), em busca do meu primeiro **estágio em Análise de Dados**.
 
-- **Foco Técnico:** Análise Exploratória de Dados (EDA), manipulação de bancos de dados relacionais e construção de dashboards.
-- **Abordagem:** Resolução de problemas complexos com base em evidências numéricas e código limpo.
+Comecei pelo curso Técnico em Informática e, no início, tive mais contato com front-end. Mas percebi que o que me atrai não é só montar telas bonitas: gosto de detalhes, de organização e de chegar a resultados por meio dos dados. Foi isso que me levou a seguir para a análise de dados.
 
+Hoje uso Python, MySQL, Excel e Git/GitHub, estou aprendendo Power BI e tenho como projeto próprio uma calculadora de lucro em Python. Meu foco agora é aprofundar SQL com um projeto prático, fortalecer Python e aprender análise exploratória de dados (EDA) e dashboards.
 
 
 ## Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</div>
+**Linguagens e Banco de Dados**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql&theme=dark&titles=true" alt="Python e MySQL" />
+
+**Análise e Visualização** (Power BI em andamento)
+
+<!-- Se quiser tirar o Power BI por enquanto, apague ",pbi" e o "(Power BI em andamento)" do título acima -->
+<img src="https://go-skill-icons.vercel.app/api/icons?i=excel,pbi&theme=dark&titles=true" alt="Excel e Power BI" />
+
+**Ferramentas de Desenvolvimento**
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,git,github&theme=dark&titles=true" alt="VS Code, PyCharm, Git e GitHub" />
+
 
 ## GitHub Analytics
 
@@ -46,19 +50,17 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=gustavolmx&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=B3B3B3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
 </div>
 
-
+<br>
 
 ## Contatos
 
-  <div align="center">
-  <a href="https://www.linkedin.com/in/gustavodelimamaximo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="45" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:maximogustavo47@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" height="45" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/gustavodelimamaximo" title="LinkedIn">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48" />
+</a>
+&nbsp;
+<a href="mailto:maximogustavo47@gmail.com" title="E-mail">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" alt="Gmail" height="48" />
+</a>
 
 <br>
 
