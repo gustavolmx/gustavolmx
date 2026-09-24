@@ -65,3 +65,6 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em **Análise de Da
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d0d0d&section=footer" width="100%" />
 </div>
+
+![Snake animation](https://github.com/gustavolmx/gustavolmx/blob/output/github-contribution-grid-snake.svg)
+
