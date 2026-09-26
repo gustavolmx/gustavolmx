@@ -63,7 +63,8 @@ Hoje uso Python, MySQL, Excel e Git/GitHub, estou aprendendo Power BI e tenho co
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" alt="LinkedIn" height="48" />
 </a>
 &nbsp;
-<a href="mailto:maximogustavo47@gmail.com" title="E-mail">
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=maximogustavo47@gmail.com" title="E-mail" target="_blank">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" alt="Gmail" height="48" />
 </a>
 
