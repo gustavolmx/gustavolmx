@@ -1,17 +1,16 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0d0d0d&section=header&text=Gustavo%20Lima&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20%7C%20Code%20%7C%20Insight&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Analysis+%7C+Python+%7C+SQL+%7C+Excel;Transforming+data+into+actionable+insights;Building+data-driven+solutions." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Data+Analysis+%7C+Python+%7C+MySQL+%7C+Excel+%7C+Power+BI;Transforming+data+into+actionable+insights;Building+data-driven+solutions." alt="Typing animation" />
 </p>
 
 
 
 ## Sobre Mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Unisa (2º período, formatura prevista para dezembro de 2027), em busca do meu primeiro **estágio em Análise de Dados**.
+Estudante de *Análise e Desenvolvimento de Sistemas* na Unisa (2º período, formatura prevista para dezembro de 2027), em busca do meu primeiro *estágio em Análise de Dados*.
 
 Comecei pelo curso Técnico em Informática e, no início, tive mais contato com front-end. Mas percebi que o que me atrai não é só montar telas bonitas: gosto de detalhes, de organização e de chegar a resultados por meio dos dados. Foi isso que me levou a seguir para a análise de dados.
 
@@ -20,18 +19,24 @@ Hoje uso Python, MySQL, Excel e Git/GitHub, estou aprendendo Power BI e tenho co
 
 ## Tecnologias e Ferramentas
 
-**Linguagens e Banco de Dados**
+*Linguagens e Banco de Dados*
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,mysql&theme=dark&titles=true" alt="Python e MySQL" />
 
-**Análise e Visualização** (Power BI em andamento)
+*Análise e Visualização* (Power BI em andamento)
 
 <!-- Se quiser tirar o Power BI por enquanto, apague ",pbi" e o "(Power BI em andamento)" do título acima -->
 <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,pbi&theme=dark&titles=true" alt="Excel e Power BI" />
 
-**Ferramentas de Desenvolvimento**
+*Ferramentas de Desenvolvimento*
 
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,git,github&theme=dark&titles=true" alt="VS Code, PyCharm, Git e GitHub" />
+
+
+## Cursos e Certificações
+
+- *Introdução ao Git e GitHub* — Fundação Getulio Vargas (FGV) | 15h, Jan/2026
+- *Fundamentos da Inteligência Artificial* — IBM SkillsBuild | 10h, Set/2026
 
 
 ## GitHub Analytics
