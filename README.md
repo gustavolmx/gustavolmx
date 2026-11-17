@@ -10,11 +10,7 @@
 
 ## Sobre Mim
 
-Estudante de *Análise e Desenvolvimento de Sistemas* na Unisa (2º período, formatura prevista para dezembro de 2027), em busca do meu primeiro *estágio em Análise de Dados*.
-
-Comecei pelo curso Técnico em Informática e, no início, tive mais contato com front-end. Mas percebi que o que me atrai não é só montar telas bonitas: gosto de detalhes, de organização e de chegar a resultados por meio dos dados. Foi isso que me levou a seguir para a análise de dados.
-
-Hoje uso Python, MySQL, Excel e Git/GitHub, estou aprendendo Power BI e tenho como projeto próprio uma calculadora de lucro em Python. Meu foco agora é aprofundar SQL com um projeto prático, fortalecer Python e aprender análise exploratória de dados (EDA) e dashboards.
+Estudante de Análise e Desenvolvimento de Sistemas na UNISA (2º período, conclusão em dez/2027) e Técnico em Informática, em busca de estágio em Análise de Dados.   Focado em organizar dados e extrair respostas para apoiar decisões de negócio. Tenho experiência prática em modelagem relacional e consultas analíticas com MySQL (Projeto Banco de Dados de Concessionária), desenvolvimento de lógica e automação com Python (Sistema de Assistência Técnica de Celular) e versionamento com Git/GitHub. Atualmente aprofundo meus conhecimentos em Excel, Power BI e análise exploratória de dados (EDA).
 
 
 ## Tecnologias e Ferramentas
@@ -25,18 +21,19 @@ Hoje uso Python, MySQL, Excel e Git/GitHub, estou aprendendo Power BI e tenho co
 
 *Análise e Visualização* (Power BI em andamento)
 
-<!-- Se quiser tirar o Power BI por enquanto, apague ",pbi" e o "(Power BI em andamento)" do título acima -->
 <img src="https://go-skill-icons.vercel.app/api/icons?i=excel,pbi&theme=dark&titles=true" alt="Excel e Power BI" />
 
 *Ferramentas de Desenvolvimento*
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,git,github&theme=dark&titles=true" alt="VS Code, PyCharm, Git e GitHub" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,pycharm,git,github&theme=dark&titles=true" alt="VS Code, Git e GitHub" />
 
 
-## Cursos e Certificações
+## Certificações em Destaque
 
-- *Introdução ao Git e GitHub* — Fundação Getulio Vargas (FGV) | 15h, Jan/2026
-- *Fundamentos da Inteligência Artificial* — IBM SkillsBuild | 10h, Set/2026
+* **Banco de Dados SQL do Zero ao Avançado + Projetos Reais** - Udemy | 8h | Nov/2026
+* **Excel na Prática** - Fundação Bradesco (Escola Virtual) | 16h | Jul/2025
+* **Fundamentos da Inteligência Artificial** - IBM SkillsBuild | 10h | Set/2026
+* **Introdução ao Git e GitHub** - Fundação Getulio Vargas (FGV) | 15h | Jan/2026
 
 
 ## GitHub Analytics
